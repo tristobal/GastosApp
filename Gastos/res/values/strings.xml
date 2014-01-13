@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gastos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add_gasto">Agregar Gasto</string>
+    <string name="title_activity_delete_all">Eliminar todo</string>
+    <string name="title_activity_gastos_by_sub_categoria">SubCategoria</string>
+    <string name="title_activity_add_categoria">Agregar Categoría</string>
+    <string name="title_activity_add_sub_categoria">Agregar SubCategoria</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="action_new_gasto">Agregar Gasto</string>
+    <string name="action_remove_gastos">Borrar todo</string>
+    <string name="action_new_categoria">Agregar Categoría</string>
+    <string name="action_new_sub_categoria">Agregar SubCategoría</string>
+    <string name="txtSi">SÍ</string>
+    <string name="txtNo">NO</string>
+    <string name="txtIngresos">Ingresos</string>
+    <string name="txtIngreso">Ingreso</string>
+    <string name="txtCategoria">Categoria</string>
+    <string name="txtSubCategoria">Subcategoria</string>
+    <string name="txtDescripcion">Descripción</string>
+    <string name="txtMonto">Monto</string>
+    <string name="txtFecha">Fecha</string>
+    <string name="txtGuardar">Guardar</string>
+    <string name="txtBorrar">Borrar</string>
+    <string name="txtAviso">Aviso</string>
+    <string name="txtTipo">Tipo</string>
+    <string name="txtGasto">Gasto</string>
+    <string name="msgConfirmarDelete">Se eliminarán todas los registros ¿Está seguro de continuar?</string>
+    <string name="msgFinDelete">Registros eliminados</string>
+    <string name="msgFinAddCategoria">Categoría agregada</string>
+
+    <string-array name="arrayTipos">
+        <item >Ingreso</item>
+        <item >Gasto</item>
+    </string-array>
+</resources>
